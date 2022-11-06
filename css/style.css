@@ -1,0 +1,261 @@
+  .header .wrapper
+ {
+	width:100%;
+    margin:auto;	
+ }
+ 
+  .banner .wrapper
+ {
+	width:100%;
+    margin:auto;	
+ }
+ .about .wrapper
+ {
+	 width:100%;
+	 margin:auto;	
+ }
+ .counting .wrapper
+ {
+	 width:90%;
+	 margin:auto;	
+ }
+ .pricing .wrapper
+ {
+	 width:90%;
+	 margin:auto;
+ }
+ .information .wrapper
+ {
+	  width:100%;
+	 margin:auto;	
+ }
+ .copyright
+ {
+	 width:100%;
+	 margin:auto;
+ }
+ .header
+ {
+	 height:80px;
+ }
+ .header .header-fc 
+ {
+	 display:flex;
+	 justify-content:space-between;
+ }
+ .header .header-fc .home
+ {
+	 text-align:center;
+	 width:45%;
+	 height:80px;
+	 background-color:#ff5722;
+ }
+ .header .header-fc .navi
+ {
+	 text-align:center;
+	 background-color:#03a9f4;
+	 width:45%;
+	 height:80px;
+ }
+ .banner
+ {
+	 text-align:center;
+	 background-color:#cddc39;
+	 height:400px;
+ }
+ .about 
+ {
+	 background-color:yellow;
+	 height:800px;
+	 text-align:center;
+ }
+ .about .about-fc 
+ {
+	 display:flex;
+	 justify-content:space-around;
+	 flex-direction:row;
+ }
+ .about .about-fc .boxa
+ {
+	 margin-top:30px;
+	 background-color:#009688;
+	 height:250px;
+	 width:40%;
+ }
+ .about .about-fc .boxb
+ {
+	  margin-top:30px;
+	 background-color:#009688;
+	 height:250px;
+	 width:40%;
+ }
+.counting 
+ {
+	 text-align:center;
+	 height:500px;
+	background-color:#e91863;
+ }
+ .counting .counting-fc
+ {
+	 display:flex;
+	 justify-content:space-around;
+ }
+ .counting .counting-fc .boxa
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:orange;
+ }
+ .counting .counting-fc .boxb
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:orange;
+ }
+  .counting .counting-fc .boxc
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:orange;
+ }
+ .counting .counting-fc .boxd
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:orange;
+ }
+ .pricing 
+ {
+	 text-align:center;
+	 height:500px;
+	background-color:#03a9f4;
+ }
+ .pricing .pricing-fc
+ {
+	 display:flex;
+	 justify-content:space-evenly;
+ }
+ .pricing .pricing-fc .boxa
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:25%;
+	 background-color:orange;
+ }
+ .pricing .pricing-fc .boxb
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:25%;
+	 background-color:orange;
+ }
+  .pricing .pricing-fc .boxc
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:25%;
+	 background-color:orange;
+ }
+ .pricing .pricing-fc .boxa-fc
+ {
+	 display:flex;
+	 justify-content:center;
+ }
+ .pricing .pricing-fc .boxa-fc .smalla
+ {
+	 text-align:center;
+	 height:70px;
+	 width:70%;
+	 background-color:white;
+	 margin-top:150px;
+ }
+ .pricing .pricing-fc .boxb-fc
+ {
+	 display:flex;
+	 justify-content:center;
+ }
+ .pricing .pricing-fc .boxb-fc .smallb
+ {
+	 text-align:center;
+	 height:70px;
+	 width:70%;
+	 background-color:white;
+	 margin-top:150px;
+ }
+ .pricing .pricing-fc .boxc-fc
+ {
+	 display:flex;
+	 justify-content:center;
+ }
+ .pricing .pricing-fc .boxc-fc .smallc
+ {
+	 text-align:center;
+	 height:70px;
+	 width:70%;
+	 background-color:white;
+	 margin-top:150px;
+ }
+ .information 
+ {
+	 text-align:center;
+	 height:500px;
+	background-color:#ff5722;
+ }
+ .information .information-fc
+ {
+	 display:flex;
+	 justify-content:space-around;
+ }
+ .information .information-fc .boxa
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:orange;
+ }
+ .information .information-fc .boxb
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:orange;
+ }
+  .information .information-fc .boxc
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:orange;
+ }
+ .information .information-fc .boxd
+ {
+	 margin-top:70px;
+	 height:300px;
+	 width:20%;
+	 background-color:orange;
+ }
+ .copyright
+ {
+	 background-color:yellow;
+	 height:200px;
+	 text-align:center;
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
